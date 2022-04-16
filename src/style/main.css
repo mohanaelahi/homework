@@ -1,0 +1,12 @@
+.menu-box > a{
+    display:flex;
+    flex-flow: row nowrap;
+    color: aquamarine;
+    padding: 3px;
+    margin: 5px;
+    cursor: pointer;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
